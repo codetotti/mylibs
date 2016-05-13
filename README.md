@@ -1,2 +1,8 @@
-# mylibs
-For saving articles,document,libs that improve my knowleages and skills
+#Libs
+
+#Documents
+
+#Articles
+
+#Git
+[How to write a README that rocks](https://dotdev.co/how-to-write-a-readme-that-rocks-bc29f279611a) by Eric L. Barnes
