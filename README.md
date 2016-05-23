@@ -3,12 +3,12 @@
 #Documents
 
 #Articles
-##Programming##
+###Programming###
 [mostly-adequate-guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html)
 
-##Agile##
+###Agile###
 [Agile/Lean Document Strategies for Agile Software Development] (http://www.agilemodeling.com/essays/agileDocumentation.htm)
-##Javascript##
+###Javascript###
 [5 Questions Every Unit Test Must Answer] (https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
 
 [Master the JavaScript Interview: What is a Pure Function?] (https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
