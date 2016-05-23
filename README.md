@@ -3,6 +3,11 @@
 #Documents
 
 #Articles
+##Programming##
+[mostly-adequate-guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html)
+
+##Agile##
+[Agile/Lean Document Strategies for Agile Software Development] (http://www.agilemodeling.com/essays/agileDocumentation.htm)
 ##Javascript##
 [5 Questions Every Unit Test Must Answer] (https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
 
