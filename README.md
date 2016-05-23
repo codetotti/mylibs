@@ -9,6 +9,7 @@
 ###Agile###
 [Agile/Lean Document Strategies for Agile Software Development] (http://www.agilemodeling.com/essays/agileDocumentation.htm)
 ###Javascript###
+
 [5 Questions Every Unit Test Must Answer] (https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
 
 [Learn JavaScript Essentials (for all skill levels)] (https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
@@ -16,6 +17,7 @@
 [Master the JavaScript Interview: What is a Pure Function?] (https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 
 [How to Learn ES6] (https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
+[ECMAScript 6 Compatibility table] (http://kangax.github.io/compat-table/es6/)
 ###PHP###
 [PHP 7 reference](https://github.com/tpunt/PHP7-Reference)
 
