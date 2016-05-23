@@ -17,11 +17,14 @@
 
 [How to Learn ES6] (https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
 ###PHP###
+[PHP 7 reference](https://github.com/tpunt/PHP7-Reference)
+
 ###Testing###
 ###Design###
 [Material design by Google](https://www.google.com/design/spec/material-design/introduction.html)
 
 ###Software Engineering###
+[Is it Time to Fire Your Product Manager?] (https://www.thoughtworks.com/insights/blog/5-signs-product-manager)
 
 #Git
 [How to write a README that rocks](https://dotdev.co/how-to-write-a-readme-that-rocks-bc29f279611a) by Eric L. Barnes
