@@ -1,5 +1,5 @@
 #Libs
-[Word plugin change word file to markdown] (http://www.writage.com)
+[Convert word file to Markdown] (http://www.writage.com) Word plugin for convert microsoft word file to markdown
 #Documents
 
 #Articles
