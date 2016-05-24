@@ -8,6 +8,9 @@
 
 ###Agile###
 [Agile/Lean Document Strategies for Agile Software Development] (http://www.agilemodeling.com/essays/agileDocumentation.htm)
+
+[Scrum Community in Thailand] (http://www.scrum123.com/scrum-paper/)
+
 ###Javascript###
 
 [5 Questions Every Unit Test Must Answer] (https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
@@ -30,7 +33,6 @@
 
 ###Software Engineering###
 [Is it Time to Fire Your Product Manager?] (https://www.thoughtworks.com/insights/blog/5-signs-product-manager)
-[Scrum Community in Thailand] (http://www.scrum123.com/scrum-paper/)
 
 #Git
 [How to write a README that rocks](https://dotdev.co/how-to-write-a-readme-that-rocks-bc29f279611a) by Eric L. Barnes
