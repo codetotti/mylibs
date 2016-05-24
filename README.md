@@ -30,6 +30,7 @@
 
 ###Software Engineering###
 [Is it Time to Fire Your Product Manager?] (https://www.thoughtworks.com/insights/blog/5-signs-product-manager)
+[Scrum Community in Thailand] (http://www.scrum123.com/scrum-paper/)
 
 #Git
 [How to write a README that rocks](https://dotdev.co/how-to-write-a-readme-that-rocks-bc29f279611a) by Eric L. Barnes
