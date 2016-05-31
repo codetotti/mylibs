@@ -6,6 +6,7 @@
 ###Programming###
 [mostly-adequate-guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html)
 
+[Test Your Skills with HackerRank](https://www.hackerrank.com/domains)
 ###Agile###
 [Agile/Lean Document Strategies for Agile Software Development] (http://www.agilemodeling.com/essays/agileDocumentation.htm)
 
@@ -28,6 +29,8 @@
 [PHP 7 reference](https://github.com/tpunt/PHP7-Reference)
 
 ###Testing###
+[5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)
+
 ###Design###
 [Material design by Google](https://www.google.com/design/spec/material-design/introduction.html)
 
@@ -39,5 +42,6 @@
 
 #Others
 ###Career###
+[Tech Hiring Has Always Been Broken. Here’s How I Survived it for Decades.](https://medium.com/javascript-scene/tech-hiring-has-always-been-broken-heres-how-i-survived-it-for-decades-b7ac33088de6)
 ###Life###
 
