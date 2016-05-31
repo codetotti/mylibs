@@ -14,8 +14,6 @@
 
 ###Javascript###
 
-[5 Questions Every Unit Test Must Answer] (https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
-
 [Learn JavaScript Essentials (for all skill levels)] (https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
 
 [Master the JavaScript Interview: What is a Pure Function?] (https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
@@ -29,6 +27,8 @@
 [PHP 7 reference](https://github.com/tpunt/PHP7-Reference)
 
 ###Testing###
+[5 Questions Every Unit Test Must Answer] (https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
+
 [5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)
 
 ###Design###
