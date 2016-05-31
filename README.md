@@ -2,7 +2,7 @@
 [Convert word file to Markdown] (http://www.writage.com) Word plugin for convert microsoft word file to markdown
 #Documents
 
-#Articles
+#Articles & Web
 ###Programming###
 [mostly-adequate-guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html)
 
